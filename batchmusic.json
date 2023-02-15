@@ -1,0 +1,34 @@
+{
+  "Music": [
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "MC POZE"},
+                "SongTitle": {"S": "PT. I"},
+                "AlbumTitle": {"S": "NOS ANOS 80"},
+                "SongYear": {"S": "1980"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "MC POZE"},
+                "SongTitle": {"S": "PT. II"},
+                "AlbumTitle": {"S": "NOS ANOS 80"},
+                "SongYear": {"S": "1980"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "MC POZE"},
+                "SongTitle": {"S": "PT. III"},
+                "AlbumTitle": {"S": "NOS ANOS 80"},
+                "SongYear": {"S": "1980"}
+              }
+          }
+      }
+    ]
+}
